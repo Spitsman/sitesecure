@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpclient (2.8.3)
+    json (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpclient
+  json
+
+BUNDLED WITH
+   1.17.3
